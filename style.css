@@ -56,26 +56,26 @@ html {
 
 .textcontainer1-1{
   position: absolute;
-  top: 1000px;
+  top: 1300px;
   left: 16px;
   text-align: left;
 }
 .textcontainer1-2{
   position: absolute;
-  top: 1050px;
+  top: 1350px;
   left: 16px;
   text-align: left;
 }
 .textcontainer1-3{
   position: absolute;
-  top: 1200px;
+  top: 1500px;
   left: 16px;
   text-align: left;
 }
 
 .textcontainer2 {
   position: absolute;
-  top: 3260px;
+  top: 5260px;
   left: 16px;
   text-align: left;
 }

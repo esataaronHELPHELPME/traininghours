@@ -1,0 +1,81 @@
+.title {
+  text-align: center;
+  font-family: arial black;
+  font-size: 30px;
+  color: White;
+}
+
+.subtitle {
+  color: White;
+  font-family: sans-serif;
+  text-align: center;
+
+}
+
+.text1 {
+  color: white;
+  font-family: monospace;
+}
+
+body {
+    background-color:transparent;
+}
+
+.TEXTBG {
+opacity: 0.4;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+}
+
+html { 
+  background-color:transparent;
+
+  background: url(https://images.pexels.com/photos/4508667/pexels-photo-4508667.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.textcontainer1 {
+  position: absolute;
+  top: 900px;
+  left: 16px;
+  text-align: left;
+}
+
+.textcontainer1-1{
+  position: absolute;
+  top: 1000px;
+  left: 16px;
+  text-align: left;
+}
+.textcontainer1-2{
+  position: absolute;
+  top: 1050px;
+  left: 16px;
+  text-align: left;
+}
+.textcontainer1-3{
+  position: absolute;
+  top: 1200px;
+  left: 16px;
+  text-align: left;
+}
+
+.textcontainer2 {
+  position: absolute;
+  top: 3260px;
+  left: 16px;
+  text-align: left;
+}

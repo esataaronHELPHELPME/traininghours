@@ -49,33 +49,33 @@ html {
 
 .textcontainer1 {
   position: absolute;
-  top: 900px;
+  top: 1400px;
   left: 16px;
   text-align: left;
 }
 
 .textcontainer1-1{
   position: absolute;
-  top: 1300px;
+  top: 1800px;
   left: 16px;
   text-align: left;
 }
 .textcontainer1-2{
   position: absolute;
-  top: 1350px;
+  top: 2150px;
   left: 16px;
   text-align: left;
 }
 .textcontainer1-3{
   position: absolute;
-  top: 1500px;
+  top: 2000px;
   left: 16px;
   text-align: left;
 }
 
 .textcontainer2 {
   position: absolute;
-  top: 5260px;
+  top: 5760px;
   left: 16px;
   text-align: left;
 }
